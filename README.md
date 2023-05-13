@@ -1,4 +1,4 @@
-<h1 align="center"><a href="https://animedex.live"><img src="https://raw.githubusercontent.com/Kfnn12/Xerflix/main/icons/android-chrome-192x192.png"></a></h1>
+<h1 align="center"><a href="https://kfnn12.github.io/Xerflix/"><img src="https://raw.githubusercontent.com/Kfnn12/Xerflix/main/icons/android-chrome-192x192.png"></a></h1>
 
 # XERFLIX 
 Here you can search for movies and web shows which are listed on IMDB and the one that are available on Internet for free, you can also watch them.
