@@ -76,7 +76,7 @@ function setAll(imdb, title, season, episode, type) {
     a.setAttribute("title", title);
     a.setAttribute("class", "links");
     a.setAttribute("IMDB", imdb);
-    a.setAttribute("href", "https://ww8.0123movie.net/imdb/movie?id=" + imdb);
+    a.setAttribute("href", "https://embed.smashystream.com/playere.php?imdb=" + imdb);
     a.setAttribute("target", "_blank");
     a.click();
   } else if (imdb && title && episode && !type) {
@@ -91,7 +91,7 @@ function setAll(imdb, title, season, episode, type) {
     a.setAttribute("IMDB", imdb);
     a.setAttribute(
       "href",
-      `https://ww8.0123movie.net/imdb/tv?id=${imdb}&s=${season}&e=${episode}`
+      `https://embed.smashystream.com/playere.php?imdb=${imdb}&season=${season}&episode=${episode}`
     );
     a.setAttribute("target", "_blank");
     a.click();
